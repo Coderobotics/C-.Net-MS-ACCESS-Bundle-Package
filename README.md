@@ -21,8 +21,6 @@ Our vision is to stop reinventing the wheel in software development by offering 
 <li>Library Management</li>
 Pathology Management</li>
 </ul>
-<b>More details and download link</b><br>
-<b>https://www.aspscriptsonline.com/product/c-net-msaccess-bundle-package-12-applications/</b>
 
 More details and download project
 https://www.aspscriptsonline.com/product/bundle-.net-projects
@@ -35,4 +33,5 @@ https://www.aspscriptsonline.com/products
 
 If you're looking for digital marketing services, insights, AI-powered strategies.
 https://www.coderobotics.com/blog
+
 
